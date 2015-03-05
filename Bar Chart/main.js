@@ -51,6 +51,6 @@ var bar = svg.selectAll("rect")
               opacity: function(d) { return d/dataset.length; }
             });
 
-svg.attr();
+//svg.attr();
 
 //yScale.domain();
